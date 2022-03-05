@@ -5,13 +5,14 @@ body {
     margin: 0;
     height: 100%;
     overflow: hidden;
+    color: white;
+    font-family: 'Fredoka', sans-serif;
 }
 
 ul.topbar {
     z-index: 1;
     margin: 0;
     padding: 0;
-    position: fixed;
     top: 0;
     width: 100%;
     background-color: black;
@@ -29,21 +30,5 @@ li.link a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: 'Fredoka', sans-serif;
     border-right: 1px solid white;
-}
-
-div.container {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-}
-
-iframe {
-    position: relative;
-    z-index: 0;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
 }
