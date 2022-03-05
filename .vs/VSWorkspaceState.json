@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assets"
   ],
-  "SelectedNode": "\\Pages",
+  "SelectedNode": "\\index.ts",
   "PreviewInSolutionExplorer": false
 }
