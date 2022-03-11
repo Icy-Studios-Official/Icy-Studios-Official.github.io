@@ -1,0 +1,49 @@
+﻿div#box {
+    border-radius: 25px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    background-color: #171717;
+}
+
+div#text {
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    background-color: #171717;
+    border-right: 5px solid black;
+}
+
+div#choices {
+    float: left;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    background-color: #171717;
+}
+
+span#header {
+    display: block;
+    font-size: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+div#discord {
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    background-color: #5865F2;
+    cursor: pointer;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

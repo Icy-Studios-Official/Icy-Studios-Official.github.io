@@ -9,6 +9,13 @@ body {
     font-family: 'Fredoka', sans-serif;
 }
 
+div#content {
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 ul.topbar {
     z-index: 1;
     margin: 0;
@@ -18,17 +25,35 @@ ul.topbar {
     background-color: black;
     overflow: hidden;
     border-bottom: 1px solid white;
+    
 }
 
-li.link {
+li.leftlink {
     float: left;
+    border-right: 1px solid white;
+    list-style-type: none;
 }
 
-li.link a {
+li.leftlink a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     border-right: 1px solid white;
+}
+
+li.rightlink {
+    float: right;
+    border-left: 1px solid white;
+    list-style-type: none;
+}
+
+li.rightlink a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-left: 1px solid white;
 }

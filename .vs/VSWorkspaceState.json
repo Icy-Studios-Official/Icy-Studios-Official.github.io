@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assets"
+    "\\Assets",
+    "\\Games",
+    "\\Login",
+    "\\Profile"
   ],
-  "SelectedNode": "\\index.ts",
+  "SelectedNode": "\\Assets\\index.css",
   "PreviewInSolutionExplorer": false
 }
