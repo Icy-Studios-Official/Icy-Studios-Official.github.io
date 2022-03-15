@@ -2,16 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Assets",
-    "\\Games"
+    "\\Games",
+    "\\Login",
+    "\\Profile"
   ],
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "SelectedNode": "\\Assets\\index.css",
-=======
   "SelectedNode": "\\Assets\\Logo-Black.png",
->>>>>>> Stashed changes
-=======
-  "SelectedNode": "\\Assets\\Logo-Black.png",
->>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
